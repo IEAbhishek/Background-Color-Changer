@@ -1,0 +1,35 @@
+body {
+	display: flex;
+	height: 100vh;
+	background-color: #d32cd0;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+
+}
+
+button {
+	background-color: transparent;
+	height: 10vh;
+	border: 2px solid #424242;
+	border-radius: 50px;
+
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+button:focus {
+	outline: none;
+}
+
+p {
+	color: #424242;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+}
+

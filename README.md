@@ -1,2 +1,2 @@
 ### Background Color Changer
-- JavaScript Project (Level: Easy)
+- JavaScript Project
